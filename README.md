@@ -1,2 +1,2 @@
 # PIM
-Integral Mechatornics Project
+Integral Mechatronics Project
